@@ -1,0 +1,5 @@
+coding love I
+World Hello
+Algorithms and Structures Data
+SingleWord
+words between spaces Extra

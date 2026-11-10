@@ -1,0 +1,5 @@
+I love coding
+Hello World
+Data Structures and Algorithms
+SingleWord
+   Extra   spaces   between   words   
